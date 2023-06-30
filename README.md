@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou  o Lucas
 
 Um estudante de Sistemas de Informação buscando vaga no mercado de Desenvolvimento. </br>
-Atualmente atuo como Estagiário na CSN. Através do SAP - QM (Quality Management) atuo juntamente com os analistas na resolução de prbolemas e analise de dados.
+Atualmente atuo como Estagiário na CSN. Através do SAP - QM (Quality Management) atuo juntamente com os analistas na resolução de problemas e análise de dados.
 
 # 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/lucs_ssc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-SSC/)
