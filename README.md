@@ -20,5 +20,4 @@ Durante os 4 anos formação no curso adquiri conhecimentos nas áreas de desenv
 
 # 📊 &nbsp;GitHub Analytics
 
-  [<img src="https://github-readme-stats.vercel.app/api?username=lucs-SSC&theme=github_dark&locale=pt-br&count_private=true" height=180>](https://github.com/lucs-SSC)
   [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucs-SSC&layout=compact&theme=github_dark&locale=pt-br" height=180>](https://github.com/lucs-SSC)
