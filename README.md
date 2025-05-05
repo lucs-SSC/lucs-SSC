@@ -5,10 +5,6 @@ Graduado em Sistemas de Informação buscando vaga no mercado de Desenvolvimento
 # 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/lucs_ssc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-SSC/)
 
-# 🚀 Experiências
-
-Durante os 4 anos formação no curso adquiri conhecimentos nas áreas de desenvolvimento Web e Mobile, utilizando das tecnologias em alta no mercado. </br>
-
 
 # 💻 Tech Stack
 
