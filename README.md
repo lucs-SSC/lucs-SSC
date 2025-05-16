@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou  o Lucas
+# 👋 Olá, eu sou  o Lucas.
 
 Graduado em Sistemas de Informação buscando vaga no mercado de Desenvolvimento. </br>
 
